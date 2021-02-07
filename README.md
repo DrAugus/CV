@@ -14,7 +14,7 @@
 
 # 专业技能
 - 熟练使用```C++``` ```Javascript``` 
-- 灵活运用```lambda```表达式及函数式编程
+- 熟练使用```lambda```表达式及函数式编程
 - 熟练使用`Cocos Creator`开发工具
 - 熟练使用[```IntelliJ IDEA```](https://www.jetbrains.com/idea/?from=augus) [```WebStorm```](https://www.jetbrains.com/webstorm/?from=augus) [```CLion```](https://www.jetbrains.com/clion/?from=augus) [```DataGrip```](https://www.jetbrains.com/datagrip/?from=augus)
 等开发环境
